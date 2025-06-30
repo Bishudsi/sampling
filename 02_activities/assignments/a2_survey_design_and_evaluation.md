@@ -43,35 +43,77 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+
+## Identify Factors Driving Turnover
+The survey is intended to learn what aspects of the work environment, management practices, compensation, job expectations, or growth opportunities might be the cause for employees’ decisions to leave.
+
+## Collate Feedback from Employees
+By collecting feedbacks directly from current and recently departed employees, would help to capture insights about their experiences, concerns, and motivations.
+
+## Support Data-Driven Decision Making
+The insights gathered from this survey will enable the Human Resources department and company leadership to make informed, strategic decisions regarding organizational policies, internal communication, workload management, and career development initiatives. These efforts will be directed toward fostering a more supportive, engaging, and sustainable workplace culture, ultimately enhancing employee retention and overall satisfaction.
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+
+## Target Population
+The target population includes all employees within the company, primarily the entry and lower-level staff across all departments.
+
+## Sampling Frame
+The sampling frame will be company’s HR database, which contains a current and historical list of employees, including job level, department, employment status, and contact information.
+
+## Sampling Units
+The sampling units are the individual employees selected from the sampling frame to receive the survey.
+
+## Observational Units
+The observational units are the individual employees who were part of Sampling Units and have completed the survey.
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
+1. On a scale of 1 to 5, how satisfied are you with your overall experience working at the company?
+   (1 = Very Dissatisfied, 5 = Very Satisfied)
+2. Do you feel you have clear opportunities for career advancement within the company?
+   Yes
+   No
+   Not sure
+3. How would you rate the support you receive from your direct supervisor or manager?
+   (1 = Very Poor, 5 = Excellent)
+4. Do you feel your workload is manageable and aligned with your job expectations?
+   (1 = Not at all manageable, 5 = Completely manageable)
+5. To what extent do you feel valued and recognized for your contributions?
+   (1 = Not at all, 5 = Very much)
+6. What were the main reasons you considered or decided to leave (or would consider leaving) the company?
+   
+7. What changes or improvements would make you more likely to stay with the company longer?
+
+8. How likely are you to recommend this company as a good place to work to others?
+   (1 = Not at all likely, 5 = Extremely likely)
+
 9. write your question here... (optional)
 10. write your question here... (optional)
-```
+
 
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
 
 ```
-write your answer here
+## Target population
+   The survey focused and is aimed towards the entry level and low level staff, as to resolve the level with focus on the understanding the reason of attribution within those roles.
+
+## Length of Survey
+   Survey is designed to complete within 5-7 minutes, with hope to receive the higher rate of survey completion.
+
+## Anonymity and Confidentiality
+   The survey is performed with Anonymity and confidentiality to ensure its unaffected and feebacks are honest.
+
+## Participation is voluntary
+   Current and Past Employees selected in sampling unit are free to participate or not in the survey.
+
+## Time Frame
+   Survey should be closed or completed within time frame (may be with 7 days)
+
+## Disclosure on Data Usability and Reporting
+   Results will be analyzed by HR and leadership team.
 ```
 
 ## Rubric
