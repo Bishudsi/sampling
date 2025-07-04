@@ -22,19 +22,58 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 For the **Canadian General Social Survey on Giving, Volunteering, and Participating, 2018 (cycle 33)**, conducted by Statistics Canada find any and all available documentation for the data gathered and identify and describe the survey features indicated below.
 
 1. Sample type
-2. Sample size
-3. Target population
-4. Sampling frame
-5. Survey mode(s) 
-6. Timeline
-7. Response rate
-8. Weights
-9. Data processing
-10. Cleaning, imputation, etc
-11. Sources of error
-12. Limitations, known biases, etc
-13. Link to documentation and any additional sources used
+   A cross-sectional probability design is used in the survey and uses a startified 2 stage sampling design
 
+2. Sample size
+   The total sample size is 50000 households
+
+3. Target population
+   Persons aged 15 and over living in private households in Canada across the 10 provinces while excludes full-time (residing for more than six months) residents of institutions.
+
+4. Sampling frame
+   Dwelling frame from Statistics Canada, Telephone number frames (landline and cellular), Administrative data (e.g., census, billing files)
+
+5. Survey mode(s) 
+   Electronic questionnaire (EQ) – online, self-administered, CATI (Computer-Assisted Telephone Interviewing), conducted in both English and French.
+
+6. Timeline
+   04 Sep 2018 to 28 Dec 2018
+
+7. Response rate
+   The overall response rate is 41.9%
+
+8. Weights
+   The person-level weight (WGHT_PER) allows estimation of the number of Canadians aged 15+ with specific characteristics. Bootstrap weights are included for variance estimation. 
+   
+   Weights are adjusted to align survey estimates with independent age-sex distributions by province, improving representativeness and precision.
+
+9. Data processing
+   Data were processed using the SSPE system, ensuring consistent, high-quality outputs through standardized procedures. Automated and manual edits (e.g., family, consistency, and flow edits) were applied at both macro and micro levels. The CATI system included built-in checks for valid responses and skip patterns, with unresolved issues reviewed by head office. All records underwent extensive validation to ensure data integrity.
+
+10. Cleaning, imputation, etc
+    Personal income was primarily obtained via tax data linkage (T1FF)
+    Donor-based imputation primarily used for Score-based matching of similar respondents
+    Mean imputation used when donor pool is insufficient
+    Multi-step imputation is used for covering Income, Formal & informal volunteering, Donations variables.
+
+11. Sources of error
+    Sampling Error:  Estimates vary from sample to sample; quantified using bootstrap weights.
+    Non-Sampling Errors:
+        Coverage Error: Excludes institutionalized populations and households without telephones; under/over-coverage possible.
+        Non-Response Error: 41.9% response rate; weights adjusted using administrative data to reduce bias.
+        Response Error: Inaccurate or biased answers due to recall or misunderstanding.
+        Processing Error: May occur during data entry, coding, or editing despite quality controls.
+
+12. Limitations, known biases, etc
+    Excludes residents of the territories, institutions, and households without telephones.
+    With a response rate of 41.9, bias may persist despite weighting and adjustments using administrative data.
+    Respondents may misremember or underreport volunteering, donations, or participation over the past 12 months.
+    Responses may vary between online and telephone modes, affecting consistency.
+    Imputed values, especially for income or volunteering, may not fully reflect actual respondent behavior.
+    Susceptible to social desirability bias, particularly for charitable and civic behavior.
+
+13. Link to documentation and any additional sources used
+    https://www23.statcan.gc.ca/imdb/p2SV.pl?Function=getSurvey&Id=796234
 
 # Your Changes
 
